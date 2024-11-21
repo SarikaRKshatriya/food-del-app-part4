@@ -1,0 +1,4 @@
+- child/parent component
+- fetch api
+- useState, useEffect
+- counter
